@@ -1,0 +1,14 @@
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\obj\Debug\net9.0\PublicHolidayTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\obj\Debug\net9.0\PublicHolidayTracker.AssemblyInfoInputs.cache
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\obj\Debug\net9.0\PublicHolidayTracker.AssemblyInfo.cs
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\obj\Debug\net9.0\PublicHolidayTracker.csproj.CoreCompileInputs.cache
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\bin\Debug\net9.0\PublicHolidayTracker.exe
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\bin\Debug\net9.0\PublicHolidayTracker.deps.json
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\bin\Debug\net9.0\PublicHolidayTracker.runtimeconfig.json
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\bin\Debug\net9.0\PublicHolidayTracker.dll
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\bin\Debug\net9.0\PublicHolidayTracker.pdb
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\obj\Debug\net9.0\PublicHolidayTracker.dll
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\obj\Debug\net9.0\refint\PublicHolidayTracker.dll
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\obj\Debug\net9.0\PublicHolidayTracker.pdb
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\obj\Debug\net9.0\PublicHolidayTracker.genruntimeconfig.cache
+C:\Users\Akers\OneDrive\Masaüstü\GORSEL PROGRAMLAMA\PublicHolidayTracker\obj\Debug\net9.0\ref\PublicHolidayTracker.dll
